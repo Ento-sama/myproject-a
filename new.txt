@@ -1,0 +1,1 @@
+/replaceoitem entity @s armor.head atamaiiatama 1000 0
